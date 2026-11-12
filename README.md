@@ -17,8 +17,13 @@ I am an electronics and communications engineer interested in bridging **hardwar
 
 ## Selected Project Experience
 
-### Photovoltaic MPPT Controller
-Design and implementation work on a maximum power point tracking controller for photovoltaic systems. Studied **Perturb & Observe (P&O)**, **Incremental Conductance (INC)**, and adaptive/variable-step approaches using MATLAB/Simulink and an Arduino-based prototype.
+### [Graduation Thesis — MPPT Controller for Photovoltaic Systems](https://github.com/Durghamrabee/photovoltaic-mppt-thesis)
+**B.Sc. Graduation Project · Al-Muthanna University · April 2026**  
+**Authors:** Durgham Rabee and Zainab Zahed · **Supervisor:** Dr. Aws H. Jrew
+
+An 86-page study of photovoltaic maximum power point tracking, including P&O, Incremental Conductance and adaptive MPPT methods, a buck converter, MATLAB/Simulink modeling, Proteus circuit simulation and an Arduino-based experimental implementation.
+
+**[Read the full graduation thesis (PDF)](https://github.com/Durghamrabee/photovoltaic-mppt-thesis/blob/main/MPPT_Controller_for_Photovoltaic_Systems_Graduation_Thesis_2026.pdf)**
 
 ### [Zelio PLC — Advanced Motor Start/Stop Control](https://github.com/Durghamrabee/zelio-plc-motor-control)
 Published ladder-logic project for Schneider Zelio Logic `SR3B261BD`, including manual/automatic modes, start-delay and warning sequences, fault monitoring, maintenance indication, native `.zm2` file, PDF report, and engineering documentation. The report states simulation success; independent hardware validation is not claimed.
@@ -35,7 +40,7 @@ Desktop application development using Python and PySide6, including database-bac
 
 ## Portfolio Status
 
-**Rebuilding this GitHub portfolio from scratch.** The [Zelio PLC motor-control repository](https://github.com/Durghamrabee/zelio-plc-motor-control) is the first published engineering project, with its native program, report and documentation. Other project descriptions reflect experience; future repositories will be added as their source files and evidence are prepared.
+**Engineering portfolio in progress.** Current public work includes the [2026 MPPT graduation thesis](https://github.com/Durghamrabee/photovoltaic-mppt-thesis) (PDF publication) and a [Zelio PLC motor-control project](https://github.com/Durghamrabee/zelio-plc-motor-control) (native program and engineering documentation). Additional project material will be published as it becomes available.
 
 ## Contact
 
