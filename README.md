@@ -20,8 +20,8 @@ I am an electronics and communications engineer interested in bridging **hardwar
 ### Photovoltaic MPPT Controller
 Design and implementation work on a maximum power point tracking controller for photovoltaic systems. Studied **Perturb & Observe (P&O)**, **Incremental Conductance (INC)**, and adaptive/variable-step approaches using MATLAB/Simulink and an Arduino-based prototype.
 
-### PLC Motor Control
-Ladder-logic designs for motor Start/Stop operation, manual/automatic modes, interlocks, timer sequences, fault monitoring, and maintenance indications using Schneider Zelio and industrial control concepts.
+### [Zelio PLC — Advanced Motor Start/Stop Control](https://github.com/Durghamrabee/zelio-plc-motor-control)
+Published ladder-logic project for Schneider Zelio Logic `SR3B261BD`, including manual/automatic modes, start-delay and warning sequences, fault monitoring, maintenance indication, native `.zm2` file, PDF report, and engineering documentation. The report states simulation success; independent hardware validation is not claimed.
 
 ### Python Desktop Applications
 Desktop application development using Python and PySide6, including database-backed workflows, user interfaces, data management, and application architecture.
@@ -35,7 +35,7 @@ Desktop application development using Python and PySide6, including database-bac
 
 ## Portfolio Status
 
-**Rebuilding this GitHub profile from scratch.** Public project repositories will be added with source files, setup instructions, technical explanations, and validation notes as each project is prepared. Descriptions above reflect areas of project experience; they are not links to published or production-certified releases.
+**Rebuilding this GitHub portfolio from scratch.** The [Zelio PLC motor-control repository](https://github.com/Durghamrabee/zelio-plc-motor-control) is the first published engineering project, with its native program, report and documentation. Other project descriptions reflect experience; future repositories will be added as their source files and evidence are prepared.
 
 ## Contact
 
