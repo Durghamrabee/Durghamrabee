@@ -72,7 +72,13 @@ The MPPT graduation thesis is jointly authored; authorship and rights associated
 
 ## Contact
 
-**GitHub:** [github.com/Durghamrabee](https://github.com/Durghamrabee)
+| Platform | Account |
+| --- | --- |
+| **Email (Gmail)** | [DurghamRabee@gmail.com](mailto:DurghamRabee@gmail.com) |
+| **Instagram** | [@DurghamRabee](https://www.instagram.com/DurghamRabee/) |
+| **Telegram** | [@DurghamRabee](https://t.me/DurghamRabee) |
+| **Facebook** | [DurghamRabee](https://www.facebook.com/DurghamRabee) |
+| **GitHub** | [@Durghamrabee](https://github.com/Durghamrabee) |
 
 ---
 
