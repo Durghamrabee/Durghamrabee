@@ -11,7 +11,7 @@ Industrial Automation · Embedded Systems · Power Electronics · Communications
 [![Graduation Thesis](https://img.shields.io/badge/View-MPPT%20Graduation%20Thesis-0F766E?style=for-the-badge)](https://github.com/Durghamrabee/photovoltaic-mppt-thesis)
 [![Email](https://img.shields.io/badge/Contact-Email-334155?style=for-the-badge)](mailto:DurghamRabee@gmail.com)
 
-[About](#about-me) · [Featured Work](#featured-public-work) · [Technical Areas](#technical-areas) · [Contact](#contact)
+[About](#about-me) · [Featured Work](#featured-public-work) · [Other Projects](#other-engineering-projects) · [Technical Areas](#technical-areas) · [Contact](#contact)
 
 </div>
 
@@ -44,10 +44,42 @@ Research and implementation work on **Maximum Power Point Tracking (MPPT)** for 
 
 > **Availability:** The thesis repository intentionally contains the research PDF only. It is not a downloadable or reproducible simulation/firmware package.
 
-## Other Projects (Private)
+## Other Engineering Projects
 
-- **Zelio PLC Motor Control**
-- **Al-Muthanna Dormitory Management System**
+### 01 — Zelio PLC Motor Control
+
+**Industrial Automation · Schneider Zelio Logic · Ladder Diagram (LD)**  
+**Status:** Private project — source files and technical reports are not publicly accessible.
+
+An educational **motor start/stop automation system** designed for the Schneider Electric **Zelio Logic SR3B261BD** using **Zelio Soft 2**. The control logic addresses essential motor operating sequences and diagnostic behavior in an industrial-control context.
+
+**Design highlights**
+- Manual and automatic operating modes with control interlocks.
+- Timed start sequence, warning indication, and motor run/stop status.
+- Overload and contactor auxiliary-feedback fault monitoring.
+- Alarm acknowledgement, fault reset, and maintenance indicators.
+- Documented I/O assignments, ladder logic, timers, and counter settings.
+
+**Engineering scope:** PLC program and design documentation. Simulation is described in the project report; independent physical commissioning has not been verified. This is **not** a certified functional-safety system.
+
+### 02 — Al-Muthanna Dormitory Management System
+
+**Desktop Software · Student Administration · Python / PySide6 / SQLite**  
+**Status:** Private project — application source code and internal documentation are not publicly accessible.
+
+A **Windows desktop application** for managing university dormitory records and accommodation assignments. Built with an **Arabic right-to-left (RTL) interface**, it provides an offline administrative workflow without requiring a web server or continuous internet connection.
+
+**Core functionality**
+- Student registration and record management, including academic-year tracking and document attachments.
+- Building and room management with capacity-based accommodation assignment.
+- Student lookup, filtering, and organized record views.
+- Configurable **Excel and PDF reports**, selected columns, report previews, and print-ready layouts.
+- Local **SQLite** data storage, backup, and restore operations.
+- A documented desktop architecture based on **Python, PySide6, and SQLAlchemy**, with a separate earlier Django-based implementation.
+
+**Engineering scope:** A locally operated administrative application. Student records, documents, backups, and configuration data are not published through this portfolio.
+
+*Private projects are described here for portfolio purposes only. No repository links, downloads, or private project files are provided.*
 
 ## Technical Areas
 
