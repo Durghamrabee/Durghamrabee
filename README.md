@@ -44,18 +44,10 @@ Research and implementation work on **Maximum Power Point Tracking (MPPT)** for 
 
 > **Availability:** The thesis repository intentionally contains the research PDF only. It is not a downloadable or reproducible simulation/firmware package.
 
-## Additional Engineering Work
+## Other Projects (Private)
 
-### Motor Start/Stop Control — Schneider Zelio Logic
-
-**Industrial Automation · PLC Ladder Logic**
-
-A documented educational control design for **Zelio Logic SR3B261BD** covering manual/automatic operation, delayed start, indication, overload and contactor-feedback monitoring, and fault acknowledgement.
-
-- **Repository visibility:** Private; its files are not accessible to public visitors.
-- **Project materials:** Zelio Soft 2 native project, ladder-diagram report, and engineering notes.
-- **Verification boundary:** Simulation results are documented; independent physical-machine commissioning is **not claimed**.
-- **Safety boundary:** Educational control logic, **not** a certified machine-safety solution.
+- **Zelio PLC Motor Control**
+- **Al-Muthanna Dormitory Management System**
 
 ## Technical Areas
 
